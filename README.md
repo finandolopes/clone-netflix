@@ -3,7 +3,7 @@
 
 
 ## 📋 Índice
-- [Link do projeto:](https://finandolopes.github.io/aula_bootstrap/)
+- [Link do projeto:](https://finandolopes.github.io/clone-netflix/)
 
 - [📖 Sobre](#-Sobre)
 - [🚀 Tecnologias utilizadas](#-Tecnologias-utilizadas)
